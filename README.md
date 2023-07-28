@@ -1,5 +1,6 @@
-# Test-MakerFocus-Relay-Board
-Test MakerFocus Relay Board
+# Test-Pi -Relay-Board
+
+https://wiki.52pi.com/index.php/EP-0099
 
 https://github.com/Misiu/maker_focus_relay_board
 
